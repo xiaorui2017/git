@@ -1,4 +1,4 @@
-[Git](http://zh.wikipedia.org/wiki/Git) 是目前最流行的[版本管理系统](http://www.ruanyifeng.com/blog/2008/12/a_visual_guide_to_version_control.html)，学会 Git 几乎成了开发者的必备技能。
+[Git](http://zh.wikipedia.org/wiki/Git) 是目前最流行的[版本管理系统](https://github.com/xiaorui2017/git/blob/master/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%85%A5%E9%97%A8%E6%8F%92%E5%9B%BE%E6%95%99%E7%A8%8B.md)，学会 Git 几乎成了开发者的必备技能。
 
 Git 有很多优势，其中之一就是远程操作非常简便。本文详细介绍 5 个 Git 命令，它们的概念和用法，理解了这些内容，你就会完全掌握 Git 远程操作。
 
