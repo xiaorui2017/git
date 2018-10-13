@@ -79,7 +79,7 @@ diff 就会告诉你，这两个文件有何差异。它的显示结果不太好
 
 前面的大于号表示 f2 增加了该行，后面的 "b" 表示该行的内容。
 
-最早的 [Unix](http://www.ruanyifeng.com/blog/2010/03/unix_copyright_history.html)（即 AT&T 版本的 Unix），使用的就是这种格式的 diff。
+最早的 Unix（即 AT&T 版本的 Unix），使用的就是这种格式的 diff。
 
 **四、上下文格式的 diff**
 
