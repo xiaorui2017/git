@@ -37,7 +37,7 @@ git add 命令的 all 参数，表示保存所有变化（包括新建、修改�
 
 git status 命令，用来查看发生变动的文件。
 
-git commit 命令的 verbose 参数，会列出 [diff](http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html) 的结果。
+git commit 命令的 verbose 参数，会列出 [diff](https://github.com/xiaorui2017/git/blob/master/%E8%AF%BB%E6%87%82diff.md) 的结果。
 
 ## 第三步：撰写提交信息
 
