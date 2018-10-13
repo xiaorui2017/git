@@ -1,6 +1,6 @@
 Git 是最流行的版本管理工具，也是程序员的必备技能之一。
 
-即使天天使用它，很多人也未必了解它的原理。Git 为什么可以管理版本？`git add`、`git commit`这些[基本命令](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)，到底在做什么，你说得清楚吗？
+即使天天使用它，很多人也未必了解它的原理。Git 为什么可以管理版本？`git add`、`git commit`这些[基本命令](https://github.com/xiaorui2017/git/blob/master/%E5%B8%B8%E7%94%A8%20Git%20%E5%91%BD%E4%BB%A4%E6%B8%85%E5%8D%95.md)，到底在做什么，你说得清楚吗？
 
 这篇文章用一个实例，解释 Git 的运行过程，帮助你理解 Git 的原理。
 
